@@ -3,7 +3,7 @@
 | **简体中文** | [English](README.en.md) |
 |:---:|:---:|
 
-TCL S8 屏幕校色是一款面向 TCL NXTPAPER S8 的 Android 屏幕调节工具。它通过设备提供的 MediaTek PQ 与 Android 显示接口调整图像参数，并提供主界面和悬浮窗两种操作方式。
+TCL S8 屏幕校色是一款面向 TCL S8 的 Android 屏幕调节工具。它通过设备提供的 MediaTek PQ 与 Android 显示接口调整图像参数，并提供主界面和悬浮窗两种操作方式。
 
 ## 功能
 
