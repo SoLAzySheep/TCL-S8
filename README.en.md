@@ -3,7 +3,7 @@
 | [简体中文](README.zh-CN.md) | **English** |
 |:---:|:---:|
 
-TCL S8 Screen Tuner is an Android display adjustment utility for the TCL NXTPAPER S8. It uses the device's MediaTek PQ and Android display interfaces to adjust image parameters, with controls available from both the main screen and a floating panel.
+TCL S8 Screen Tuner is an Android display adjustment utility for the TCL S8. It uses the device's MediaTek PQ and Android display interfaces to adjust image parameters, with controls available from both the main screen and a floating panel.
 
 ## Features
 
